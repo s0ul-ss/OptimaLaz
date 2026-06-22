@@ -18,7 +18,7 @@ public class HealthBarRenderer {
 
     private static final float BAR_WIDTH = 1.0f;
     private static final float BAR_HEIGHT = 0.07f;
-    private static final float RENDER_DISTANCE = 32.0;
+    private static final float RENDER_DISTANCE = 32.0f;
 
     public void render(WorldRenderContext context) {
         MinecraftClient client = MinecraftClient.getInstance();

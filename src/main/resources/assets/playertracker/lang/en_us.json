@@ -1,0 +1,11 @@
+{
+  "key.playertracker.open_menu": "Open Player Tracker Menu",
+  "playertracker.menu.title": "Player Tracker",
+  "playertracker.menu.track": "Set Tracker",
+  "playertracker.menu.untrack": "Remove Tracker",
+  "playertracker.menu.no_players": "No other players online",
+  "playertracker.menu.close": "Close",
+  "playertracker.dimension.nether": "[NETHER]",
+  "playertracker.dimension.end": "[END]",
+  "playertracker.dimension.overworld": ""
+}

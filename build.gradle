@@ -60,9 +60,8 @@ java {
 }
 
 jar {
-    inputs.property "archivesName", project.archivesName
     from("LICENSE") {
-        rename { "${it}_${project.archivesName}" }
+        rename { "${it}_${base.archivesName.get()}" }
     }
 }
 
